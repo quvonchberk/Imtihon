@@ -1,0 +1,752 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 503,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "uijJBQAAQBAJ",
+      "etag": "FiNiI9fMZQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uijJBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Knockout.js",
+        "subtitle": "Building Dynamic Client-Side Web Applications",
+        "authors": [
+          "Jamie Munro"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-12-09",
+        "description": "Use Knockout.js to design and build dynamic client-side web applications that are extremely responsive and easy to maintain. This example-driven book shows you how to use this lightweight JavaScript framework and its Model-View-ViewModel (MVVM) pattern. You’ll learn how to build your own data bindings, extend the framework with reusable functions, and work with a server to enhance your client-side application with persistence. In the final chapter, you’ll build a shopping cart to see how everything fits together. If you’re a web developer with experience in JavaScript, HTML, and CSS, you’re ready for Knockout. Learn how to create a ViewModel Bind HTML data and attributes, and CSS classes and styles Understand data binding in Knockout’s context hierarchy Use properties that change dynamically through user interaction Work with forms by using several different bindings Bind multiple ViewModels on a single page Extend or attach custom functions to observables Perform server-side interactions with jQuery Map a JavaScript object or apply JSON data to a new object",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491914335"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491914335"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uijJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uijJBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=uijJBQAAQBAJ&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=uijJBQAAQBAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Knockout_js.html?hl=&id=uijJBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uijJBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This example-driven book shows you how to use this lightweight JavaScript framework and its Model-View-ViewModel (MVVM) pattern."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8cPODAAAQBAJ",
+      "etag": "J7pz6C0Obi0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8cPODAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sams Teach Yourself HTML, CSS, and JavaScript All in One",
+        "authors": [
+          "Julie C. Meloni"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2016",
+        "description": "The all-in-one HTML, CSS and JavaScript beginner's guide: covering the three most important languages for web development. Mastering HTML, CSS, and JavaScript is vital for any beginning web developer - and the importance of these technologies is growing as web development moves away from proprietary alternatives such as Flash. Sams Teach Yourself HTML, CSS, and JavaScript All in One brings together everything beginners need to build powerful web applications with the HTML and CSS standards and the latest JavaScript and Ajax libraries. With this book, beginners can get all the modern web development knowledge you need from one expert source. Bestselling author Julie Meloni (Sams Teach Yourself PHP, MySQL and Apache All in One) teaches simply and clearly, through brief, hands-on lessons focused on knowledge you can apply immediately. Meloni covers all the building blocks of practical web design and development, integrating new techniques and features into every chapter. Each lesson builds on what's come before, showing you exactly how to use HTML, CSS, and JavaScript together to create great web sites.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789332573116"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9332573115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8cPODAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8cPODAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=8cPODAAAQBAJ&dq=%24%25javascript%7D&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=8cPODAAAQBAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sams_Teach_Yourself_HTML_CSS_and_JavaScr.html?hl=&id=8cPODAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8cPODAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book, beginners can get all the modern web development knowledge you need from one expert source."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EoPoCR_TWpoC",
+      "etag": "+Ezy8/UujsA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EoPoCR_TWpoC",
+      "volumeInfo": {
+        "title": "JQuery Mobile",
+        "authors": [
+          "Jon Reid"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-06-20",
+        "description": "The future belongs to mobile web apps that function on a broad range of smart-phones and tablets. Get started with jQuery Mobile, the touch-optimized framework for creating apps that look and behave consistently across many devices. This book assumes that you are already familiar with the jQuery JavaScript library, HTML markup, Cascading Style Sheets, and mobile web browsers. The book provides HTML5, CSS3, and JavaScript code examples, screen shots, and step-by-step guidance to help you build a complete working app.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449306687"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449306683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 131,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EoPoCR_TWpoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EoPoCR_TWpoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=EoPoCR_TWpoC&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=EoPoCR_TWpoC&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JQuery_Mobile.html?hl=&id=EoPoCR_TWpoC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EoPoCR_TWpoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book assumes that you are already familiar with the jQuery JavaScript library, HTML markup, Cascading Style Sheets, and mobile web browsers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M7LVzQEACAAJ",
+      "etag": "KU+fW0vdlhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M7LVzQEACAAJ",
+      "volumeInfo": {
+        "title": "Elementary JavaScript",
+        "authors": [
+          "Siddharth Dalal"
+        ],
+        "publishedDate": "2020-07-04",
+        "description": "Elementary JavaScript is designed to introduce anyone 10 years and up to programming. Follow along as you learn the basic concepts of programming while building parts of a game. By the end of this book, you will have learned the basics of programming and built a Pokémon card game at the same time. This book is based on Sidd's experience teaching his son programming and he thinks anyone can enjoy the unlimited possibilities from knowing how to code. Code opens the doors to all kinds of fun projects. Imagine being able to make the games you play! This book will teach you how to think in code, write code that is easy to understand, work with friends on code projects and also what to do once your project is complete.You will be introduced to the latest additions to the JavaScript language that make programming simpler, more efficient and less complicated. This book contains over a 100 screenshots showing every concept and demonstrating every step in action.All the code in the book is beautifully syntax highlighted including showing all the additions (diff highlighting) made while working on the game to make learning easier. The code is fully tested in Chrome, Firefox and Edge. All the code is available online on GitHub. Not only is the code well commented, it is built up step by step and it teaches good organization and commenting practices that will make the code easier to use and read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1716773970"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781716773976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M7LVzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M7LVzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=M7LVzQEACAAJ&dq=%24%25javascript%7D&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=M7LVzQEACAAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementary_JavaScript.html?hl=&id=M7LVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M7LVzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Follow along as you learn the basic concepts of programming while building parts of a game. By the end of this book, you will have learned the basics of programming and built a Pokémon card game at the same time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cs61nq-RFmcC",
+      "etag": "yc0HtgZlKPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cs61nq-RFmcC",
+      "volumeInfo": {
+        "title": "Ext JS 4 Web Application Development Cookbook",
+        "authors": [
+          "Andrew Duncan",
+          "Stuart Ashworth"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2012-08-24",
+        "description": "Over 130 easy to follow recipes backed up with real life examples, walking you through the basic Ext JS features to advanced application design using Sencha Ext JS with this book and ebook.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781849516877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1849516871"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cs61nq-RFmcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cs61nq-RFmcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=Cs61nq-RFmcC&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Cs61nq-RFmcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Cs61nq-RFmcC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26.15,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 18.3,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Cs61nq-RFmcC&rdid=book-Cs61nq-RFmcC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26150000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 18300000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cs61nq-RFmcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Over 130 easy to follow recipes backed up with real life examples, walking you through the basic Ext JS features to advanced application design using Sencha Ext JS with this book and ebook."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P18EAAAACAAJ",
+      "etag": "ZcP8Pxkn6ro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P18EAAAACAAJ",
+      "volumeInfo": {
+        "title": "HTML with CSS, JavaScript, and DHTML",
+        "authors": [
+          "Steven E. Callihan"
+        ],
+        "publisher": "EMC/Paradigm Publishing",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0763816531"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780763816537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cascading style sheets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=P18EAAAACAAJ&dq=%24%25javascript%7D&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=P18EAAAACAAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_with_CSS_JavaScript_and_DHTML.html?hl=&id=P18EAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P18EAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pGvIBgAAQBAJ",
+      "etag": "Ychjrx2nDi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pGvIBgAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Async & Performance",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-02-23",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the \"You Don’t Know JS\" series, this concise yet in-depth guide focuses on new asynchronous features and performance techniques—including Promises, generators, and Web Workers—that let you create sophisticated single-page web applications and escape callback hell in the process. Like other books in this series, You Don’t Know JS: Async & Performance dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master. With this book you will: Explore old and new JavaScript methods for handling asynchronous programming Understand how callbacks let third parties control your program’s execution Address the \"inversion of control\" issue with JavaScript Promises Use generators to express async flow in a sequential, synchronous-looking fashion Tackle program-level performance with Web Workers, SIMD, and asm.js Learn valuable resources and techniques for benchmarking and tuning your expressions and statements",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491905203"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491905204"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pGvIBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pGvIBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=pGvIBgAAQBAJ&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=pGvIBgAAQBAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/You_Don_t_Know_JS_Async_Performance.html?hl=&id=pGvIBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pGvIBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book you will: Explore old and new JavaScript methods for handling asynchronous programming Understand how callbacks let third parties control your program’s execution Address the &quot;inversion of control&quot; issue with JavaScript ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sSe961mLk18C",
+      "etag": "c+Q63kHAPdI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sSe961mLk18C",
+      "volumeInfo": {
+        "title": "Programming Atlas",
+        "authors": [
+          "Christian Wenz"
+        ],
+        "publisher": "O'Reilly Media, Inc.",
+        "publishedDate": "2006",
+        "description": "Provides information on using Atlas to build Ajax-style applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0596526725"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596526726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.0.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sSe961mLk18C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sSe961mLk18C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=sSe961mLk18C&dq=%24%25javascript%7D&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=sSe961mLk18C&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Atlas.html?hl=&id=sSe961mLk18C"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sSe961mLk18C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Provides information on using Atlas to build Ajax-style applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "25AEAwAAQBAJ",
+      "etag": "TddoVvPcabA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/25AEAwAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Scope & Closures",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-03-10",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer. You’ll learn how and why they work, and how an understanding of closures can be a powerful part of your development skillset. Like other books in the \"You Don’t Know JS\" series, Scope and Closures dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery. Learn about scope, a set of rules to help JavaScript engines locate variables in your code Go deeper into nested scope, a series of containers for variables and functions Explore function- and block-based scope, “hoisting”, and the patterns and benefits of scope-based hiding Discover how to use closures for synchronous and asynchronous tasks, including the creation of JavaScript libraries",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449335540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449335543"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=25AEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=25AEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=25AEAwAAQBAJ&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=25AEAwAAQBAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/You_Don_t_Know_JS_Scope_Closures.html?hl=&id=25AEAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=25AEAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jUfnAwAAQBAJ",
+      "etag": "GGRynBmJNrM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jUfnAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming JavaScript Applications",
+        "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
+        "authors": [
+          "Eric Elliott"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-06-26",
+        "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows. JavaScript may be the most essential web programming language, but in the real world, JavaScript applications often break when you make changes. With this book, author Eric Elliott shows you how to add client- and server-side features to a large JavaScript application without negatively affecting the rest of your code. Examine the anatomy of a large-scale JavaScript application Build modern web apps with the capabilities of desktop applications Learn best practices for code organization, modularity, and reuse Separate your application into different layers of responsibility Build efficient, self-describing hypermedia APIs with Node.js Test, integrate, and deploy software updates in rapid cycles Control resource access with user authentication and authorization Expand your application’s reach through internationalization",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491950272"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491950277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jUfnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jUfnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=jUfnAwAAQBAJ&printsec=frontcover&dq=%24%25javascript%7D&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=jUfnAwAAQBAJ&dq=%24%25javascript%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_JavaScript_Applications.html?hl=&id=jUfnAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jUfnAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book, author Eric Elliott shows you how to add client- and server-side features to a large JavaScript application without negatively affecting the rest of your code."
+      }
+    }
+  ]
+}

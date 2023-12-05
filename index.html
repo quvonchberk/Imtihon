@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container header__container">
+        <a href="index.html">
+          <img src="img/logo.svg" alt="logo" width="226" height="44" />
+        </a>
+
+        <label class="label" for="search"
+          ><img src="img/search.svg" alt="search"
+        /></label>
+        <form class="Form">
+          <input
+            class="search_input"
+            type="text"
+            placeholder="Search books"
+            id="search"
+            autocomplete="off"
+          />
+        </form>
+
+        <img src="img/quyosh.svg" alt="sun" width="23" height="23" />
+      </div>
+    </header>
+
+    <div class="intro">
+      <div class="container intro_container">
+        <h2 class="intro_result">
+          Showing <span class="result_number">0</span> Result(s)
+        </h2>
+
+        <button class="btn_order">
+          <img class="calendar" src="img/kalendar.png" alt="calendar" />
+          <p class="text">Order by newest</p>
+        </button>
+      </div>
+    </div>
+
+    <main>
+      <div class="main_container">
+        <div class="dv" style="background-color: #fff; padding-left: 130px">
+          <h2 class="book_title">Bookmarks</h2>
+
+          <p class="book_text">
+            If you dont like to read, you havent found the right book
+          </p>
+
+          <ul class="book_list"></ul>
+        </div>
+
+        <ul class="list"></ul>
+      </div>
+    </main>
+
+    <template class="book_template">
+      <li class="book_item">
+        <div>
+          <h3 class="book_list-title">Python</h3>
+          <p class="book_list-text">David M. Beazley</p>
+        </div>
+        <div>
+          <a href="#" class="book-open-btn">
+            <img src="img/book.svg" alt="book-open" />
+          </a>
+          <button type="button" class="delete_btn"><img class="del-button" src="img/delit.svg" alt="del" width="24" height="24"></button>
+        </div>
+      </li>
+    </template>
+
+    <template class="template">
+      <li class="item">
+        <div class="img_book">
+          <img
+            class="img"
+            src="https://picsum.photos/id/74/201/202"
+            alt="rasm"
+          />
+        </div>
+        <h3 class="title_book">Python</h3>
+        <p class="author_book">David M. Beazley</p>
+        <p class="year_book">2009</p>
+        <div
+          style="
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+          "
+        >
+          <button class="book_btn">Bookmark</button>
+          <button
+            class="btn btn-primary info"
+            type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasRight"
+            aria-controls="offcanvasRight"
+          >
+            More Info
+          </button>
+        </div>
+        <a href="#" class="read_link">Read</a>
+      </li>
+    </template>
+
+    <div
+      class="offcanvas offcanvas-end modal-info"
+      tabindex="-1"
+      id="offcanvasRight"
+      aria-labelledby="offcanvasRightLabel"
+    >
+      <div class="offcanvas-header">
+        <h5 id="offcanvasRightLabel">Offcanvas right</h5>
+        <button
+          type="button"
+          class="btn-close text-reset"
+          data-bs-dismiss="offcanvas"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="offcanvas-body">
+        <img style="margin-bottom: 30px" class="modal-img" src="" alt="" />
+        <p style="margin-bottom: 30px" class="modal-text"></p>
+        <span>Author: </span><a class="modal-span-author" href="#"></a
+        ><br /><br />
+        <span>Published: </span><a class="modal-span-published" href="#"></a
+        ><br /><br />
+        <span>Publishers: </span><a class="modal-span-publishers" href="#"></a
+        ><br /><br />
+        <span>Categories: </span><a class="modal-span-categories" href="#"></a
+        ><br /><br />
+        <span>Pages Count: </span><a class="modal-span-pagesCount" href="#"></a
+        ><br /><br />
+
+        <a class="read_linkk" href="#">Read</a>
+      </div>
+    </div>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/volumes.json"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
